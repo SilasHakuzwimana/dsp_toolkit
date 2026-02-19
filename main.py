@@ -163,7 +163,7 @@ QPushButton#secondary {{
     border: 1px solid {C['accent2']};
     border-radius: 4px;
     padding: 9px 0;
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: 1px;
     font-family: 'Courier New', monospace;
 }}

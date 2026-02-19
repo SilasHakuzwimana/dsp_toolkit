@@ -209,4 +209,4 @@ Developed as a university academic project
 
 DSP Simulation Toolkit – Educational Version (Phase A)
 
-By Silas HAKUZWIMANA - 223001019 - Year III Computer Engineering Student - UR-CST ()
+By Silas HAKUZWIMANA - 223001019 - Year III Computer Engineering Student - UR-CST (2025 - 2026)
